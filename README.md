@@ -1,2 +1,2 @@
 # Timer-Project
-replit=https://replit.com/@Pravin-Dattu-Sh/Timer-pro#src/App.jsx
+replit=https://Timer-pro.pravin-dattu-sh.repl.co
